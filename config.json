@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "emailvelete",
+        "uuid": 3171585,
+        "checksum": "vu6nq9"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
